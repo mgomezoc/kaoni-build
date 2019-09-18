@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>87574554335-gbt95isei1fut19u74fkvag294gp0ig9.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.87574554335-gbt95isei1fut19u74fkvag294gp0ig9</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC9xpRBDRrjN77HtXzMirv_Vp84g_MN-Fc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>87574554335</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.soluxs.kaoni</string>
+	<key>PROJECT_ID</key>
+	<string>kaoni-e7663</string>
+	<key>STORAGE_BUCKET</key>
+	<string>kaoni-e7663.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:87574554335:ios:fff0d97625c65f51176b6a</string>
+	<key>DATABASE_URL</key>
+	<string>https://kaoni-e7663.firebaseio.com</string>
+</dict>
+</plist>
