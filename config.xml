@@ -42,7 +42,7 @@
     <plugin name="cordova-plugin-network-information" />
     <plugin name="cordova-plugin-ionic-keyboard" />
     <plugin name="cordova-plugin-splashscreen" />
-    <plugin name="phonegap-plugin-push" source="npm">
+    <plugin name="phonegap-plugin-push" spec="2.2.3" source="npm">
         <param name="SENDER_ID" value="87574554335" />
     </plugin>
     <plugin name="cordova-plugin-x-socialsharing" source="npm" version="5.4.0" />
